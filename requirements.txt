@@ -1,0 +1,9 @@
+asyncio
+aiohttp
+uuid
+cloudscraper
+loguru
+curl_cffi
+colorama
+fake-useragent
+requests
